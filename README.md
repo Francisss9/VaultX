@@ -1,2 +1,9 @@
+<div align="center">
+
 # VaultX
-A storage that keeps python simple and mini games
+
+</div>
+
+<p align="center">
+  A storage that keeps python scripts simple and mini games
+</p>
