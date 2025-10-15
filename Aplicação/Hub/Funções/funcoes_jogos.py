@@ -1,5 +1,3 @@
-from importlib.resources import Anchor
-from textwrap import fill
 import customtkinter as ctk
 import os
 import re
