@@ -1,7 +1,0 @@
-{
-    "python.analysis.autoImportCompletions": true,
-    "python.analysis.typeCheckingMode": "standard",
-    "explorer.autoOpenDroppedFile": true,
-    "files.autoSaveWhenNoErrors": true,
-    "files.autoSaveWorkspaceFilesOnly": true
-}
