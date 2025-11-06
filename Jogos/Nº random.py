@@ -55,11 +55,11 @@ def main():
         if vitoria == False:
             while True:
                 resposta_false = input(f"É pena, o número secreto era {numero_secreto}, na próxima consegues... Queres reiniciar o jogo? ")
-                if resposta_false.strip().lower() == "sim":
+                if resposta_false.strip().lower() == "sim" or "s" or "S" "Yes" or "yes" or "Y" or "y":
                     print("O jogo está a reiniciar...")
                     time.sleep(1)
                     break
-                elif resposta_false.strip().lower() == "nao":
+                elif resposta_false.strip().lower() == "não" or "nao" or "N" or "n" or "No" or "no":
                     print("Volta quando quiseres!")
                     jogar = False
                     break
@@ -70,11 +70,11 @@ def main():
         elif vitoria == True:
             while True:
                 resposta_true = input("Boa, conseguiste, pretendes jogar novamente? \n")
-                if resposta_true.strip().lower() == "sim":
+                if resposta_true.strip().lower() == "sim" or "s" or "S" "Yes" or "yes" or "Y" or "y":
                     print("O jogo está a reiniciar...\n\n")
                     time.sleep(1)
                     break
-                elif resposta_true.strip().lower() == "nao":
+                elif resposta_true.strip().lower() == "nao" or "não" or "N" or "n" or "No" or "no":
                     print("Volta quando quiseres!")
                     jogar = False
                     break

@@ -1,5 +1,10 @@
+Problemas:
 - Jogo fica a funcionar quando saio da tela de jogo
 - Frame não apaga mensagens
 - Importar terminal para o frame ou captura
+
+Features:
 - Adicionar animações
+
+Features mais avançadas:
 - Criar uma base de dados (Guarda dados relevantes a cada player)
