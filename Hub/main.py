@@ -11,7 +11,7 @@ class App(ctk.CTk):
     def __init__(self):
         super().__init__()
         self.geometry("470x550")
-        self.title("Aplicação nº1")
+        self.title("VaultX")
 
         self.frames = {}
         self.nome_jogador = None
