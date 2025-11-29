@@ -8,6 +8,7 @@
 
 <p align="center">
   A storage that keeps python scripts simple and mini games saved all together
+  <br>
   It has built-in script that automatically looks for games in .py files
 </p>
 
